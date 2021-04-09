@@ -24,7 +24,8 @@
 
 <br />
 <p align="center">
-  <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=NiazMahmud&theme=xcode" />
+ 
+ <img width="800px" src="https://activity-graph.herokuapp.com/graph?username=NiazMahmud&theme=xcode" />
   
 </p>
 
