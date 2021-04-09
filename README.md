@@ -15,12 +15,11 @@
 - 🥅 2021 Goals: Fitness 💪 Learn :eyes: & Code :octocat: Contribute more to Open Source projects 👨🏻‍💻
 
 
-<p align="center"  height="150px">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NiazMahmud&count_private=true&show_icons=true&theme=vision-friendly-dark)
 <br />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NiazMahmud&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-</p>
+
 
 <br />
 <p align="center">
